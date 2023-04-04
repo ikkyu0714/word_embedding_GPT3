@@ -1,0 +1,2 @@
+# word_embedding_GPT3
+GPT3を使ったwordベースの文化差検出
